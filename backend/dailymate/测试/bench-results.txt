@@ -1,0 +1,6 @@
+Iterations: 100
+
+todo_list: avg=8.91ms, p95=12.67ms, success=100.0%
+bill_list: avg=8.96ms, p95=12.66ms, success=100.0%
+bill_stat_month: avg=9.74ms, p95=14.17ms, success=100.0%
+
